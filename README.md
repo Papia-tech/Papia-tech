@@ -45,19 +45,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🍽️ SharePlate  
-A food-sharing platform aimed at reducing food wastage by connecting donors and recipients.
-
-### 🌐 Portfolio Website  
-Personal portfolio showcasing my skills, projects, and learning journey.
-
-### 🛠️ Frontend Practice Projects  
-Mini projects using HTML, CSS, and JavaScript to enhance UI/UX skills.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Papia-tech&theme=tokyonight&show_icons=true" />
