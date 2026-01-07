@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Papia Karmakar</h1>
+<h3 align="center">B.Tech CSE ’28 | Web Development Enthusiast</h3>
 
-<!--
-**Papia-tech/Papia-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Turning ideas into interactive websites 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+🎓 B.Tech in Computer Science & Engineering (Batch of 2028)  
+🏫 University of Engineering & Management (UEM)  
+💻 Interested in **Web Development & Frontend Technologies**  
+🌱 Currently learning **Full Stack Web Development**  
+✨ Love building projects that solve real-world problems  
+
+---
+
+## 🔧 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+🍽️ **SharePlate**  
+A food-sharing platform aimed at reducing food wastage by connecting donors and recipients.
+
+🌐 **Portfolio Website**  
+A personal portfolio showcasing my skills, projects, and learning journey.
+
+🛠️ **Frontend Practice Projects**  
+Mini projects using HTML, CSS, and JavaScript to improve UI/UX skills.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/papia-karmakar-111408338/  
+📧 Email: (add if you want)
+
+---
+
+✨ *“Learning, building, and improving one project at a time.”*
+
