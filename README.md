@@ -43,18 +43,18 @@ Mini projects using HTML, CSS, and JavaScript to improve UI/UX skills.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papia-tech&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=papia-tech&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 🔗 LinkedIn: https://www.linkedin.com/in/papia-karmakar-111408338/  
-📧 Email: (add if you want)
+📧 Email: karmakarpapia06@gmail.com
 
 ---
 
