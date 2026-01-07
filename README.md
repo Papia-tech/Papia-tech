@@ -5,18 +5,27 @@
   Turning ideas into interactive websites 🚀
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/papia-karmakar-111408338/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karmakarpapia06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
-🎓 B.Tech in Computer Science & Engineering (Batch of 2028)  
-🏫 University of Engineering & Management (UEM)  
-💻 Interested in **Web Development & Frontend Technologies**  
-🌱 Currently learning **Full Stack Web Development**  
-✨ Love building projects that solve real-world problems  
+- 🎓 **B.Tech in Computer Science & Engineering** (Batch of 2028)  
+- 🏫 **University of Engineering & Management (UEM)**  
+- 💻 Passionate about **Web Development & Frontend Technologies**  
+- 🌱 Currently learning **Full Stack Web Development**  
+- ✨ Love building projects that solve real-world problems  
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Core Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
@@ -29,59 +38,48 @@
 
 ---
 
+## ⚙️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs,aws,py,go,rust" height="60" />
 </div>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="karmakarpapia06@gmail.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+---
 
 ## 📌 Featured Projects
-🍽️ **SharePlate**  
+
+### 🍽️ SharePlate  
 A food-sharing platform aimed at reducing food wastage by connecting donors and recipients.
 
-🌐 **Portfolio Website**  
-A personal portfolio showcasing my skills, projects, and learning journey.
+### 🌐 Portfolio Website  
+Personal portfolio showcasing my skills, projects, and learning journey.
 
-🛠️ **Frontend Practice Projects**  
-Mini projects using HTML, CSS, and JavaScript to improve UI/UX skills.
+### 🛠️ Frontend Practice Projects  
+Mini projects using HTML, CSS, and JavaScript to enhance UI/UX skills.
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Papia-tech&theme=tokyonight&show_icons=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Papia-tech&theme=tokyonight&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-🔗 LinkedIn: https://www.linkedin.com/in/papia-karmakar-111408338/  
-📧 Email: karmakarpapia06@gmail.com
+## ☕ Support My Work
+<p align="center">
+  If you like what I do, consider buying me a coffee/tea 🥺👉👈
+</p>
+
+<p align="center">
+  <a href="mailto:karmakarpapia06@gmail.com">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" />
+  </a>
+</p>
 
 ---
 
 ✨ *“Learning, building, and improving one project at a time.”*
-
