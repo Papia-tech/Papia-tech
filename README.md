@@ -43,11 +43,11 @@ Mini projects using HTML, CSS, and JavaScript to improve UI/UX skills.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papia-tech&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=papia-tech&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight"/>
 </p>
 
 ---
