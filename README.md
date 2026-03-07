@@ -14,7 +14,7 @@
   </a>
 </p>
 
-
+<br>
 
 ## 👩‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (Batch of 2028)  
@@ -23,14 +23,14 @@
 - 🌱 Currently learning **Full Stack Web Development**  
 - ✨ Love building projects that solve real-world problems  
 
-
+<br>
 
 ## ⚙️ Tools & Technologies
 <div align="center">
   <img  src="https://skillicons.dev/icons?i=c,python,html,css,tailwind,js,nodejs,arduino,r,matlab"  height="60"  />
 </div>
 
-
+<br>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -41,6 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight" />
 </p>
 
-
+<br>
 
 ✨ *“Learning, building, and improving one project at a time.”*
