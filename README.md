@@ -34,11 +34,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight" width="49%" />
 </p>
 
 <br>
