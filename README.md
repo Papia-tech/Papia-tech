@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Papia Karmakar</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Papia Karmakar</h1>
 <h3 align="center">B.Tech CSE ’28 | Web Development Enthusiast</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (Batch of 2028)  
@@ -23,37 +23,24 @@
 - 🌱 Currently learning **Full Stack Web Development**  
 - ✨ Love building projects that solve real-world problems  
 
----
+
 
 ## ⚙️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs,aws,py,go,rust" height="60" />
+  <img  src="https://skillicons.dev/icons?i=c,python,html,css,tailwind,js,nodejs,arduino,r,matlab"  height="60"  />
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Papia-tech&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight" />
 </p>
 
----
 
-## ☕ Support My Work
-<p align="center">
-  If you like what I do, consider buying me a coffee/tea 🥺👉👈
-</p>
-
-<p align="center">
-  <a href="mailto:karmakarpapia06@gmail.com">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" />
-  </a>
-</p>
-
----
 
 ✨ *“Learning, building, and improving one project at a time.”*
