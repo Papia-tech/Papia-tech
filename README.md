@@ -27,7 +27,7 @@
 
 ## ⚙️ Tools & Technologies
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=c,python,html,css,tailwind,js,nodejs,arduino,r,matlab"  height="60"  />
+  <img  src="https://skillicons.dev/icons?i=c,python,html,css,tailwind,js,nodejs,arduino,r,matlab,git,github"  height="60"  />
 </div>
 
 <br>
@@ -40,4 +40,22 @@
 
 <br>
 
-✨ *“Learning, building, and improving one project at a time.”*
+## 👩‍💻 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Papia-tech&radius=16&theme=react&area=true&order=5" alt="activity-graph graph"/>
+</div>
+
+<br>
+
+## 🟢 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
+
+---
+<h3 align="center">THANK YOU FOR VISITING</h3>
