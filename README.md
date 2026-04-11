@@ -5,13 +5,10 @@
   Turning ideas into interactive websites 🚀
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/papia-karmakar-111408338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karmakarpapia06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<p align="center" style="line-height:0;">
+  <a href="https://papia-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Website-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
+  <a href="https://www.linkedin.com/in/papia-karmakar/"><img src="https://img.shields.io/badge/LinkedIn-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
+  <a href="https://github.com/Papia-tech"><img src="https://img.shields.io/badge/GitHub-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
 </p>
 
 <br>
@@ -42,18 +39,8 @@
 
 ## 👩‍💻 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Papia-tech&radius=16&theme=react&area=true&order=5" alt="activity-graph graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Papia-tech&radius=16&hide_border=true&bg_color=00000000&theme=tokyo-night&area=true&order=5" alt="activity-graph graph"/>
 </div>
-
-<br>
-
-## 🟢 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Papia-tech/Papia-tech/output/pacman-contribution-graph.svg">
-</picture>
 
 <br>
 
