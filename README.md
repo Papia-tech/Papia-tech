@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="line-height:0;">
-  <a href="https://papia-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Website-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
+  <a href="https://papia-tech.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
   <a href="https://www.linkedin.com/in/papia-karmakar/"><img src="https://img.shields.io/badge/LinkedIn-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
   <a href="https://github.com/Papia-tech"><img src="https://img.shields.io/badge/GitHub-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
 </p>
