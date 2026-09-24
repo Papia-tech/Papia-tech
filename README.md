@@ -31,15 +31,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Papia-tech&show_icons=true&theme=tokyonight&hide_border=true" height="190" />
+  <img src="https://streak-stats.demolab.com?user=Papia-tech&theme=tokyonight&hide_border=true" height="190" />
 </p>
 
 <br>
 
 ## 👩‍💻 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Papia-tech&radius=16&hide_border=true&bg_color=00000000&theme=tokyo-night&area=true&order=5" alt="activity-graph graph"/>
+  <img src="https://github-readme-activity-graph-delta-taupe.vercel.app/graph?username=Papia-tech&radius=16&hide_border=true&bg_color=00000000&theme=tokyo-night&area=true&order=5" alt="activity-graph graph"/>
 </div>
 
 <br>
